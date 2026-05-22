@@ -1,5 +1,5 @@
 --SECTION ONE
---show all coliumns from customers TABLE
+--show all columns from customers TABLE
 SELECT *
 FROM customers;
 
