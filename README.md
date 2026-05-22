@@ -13,18 +13,18 @@ The database contained 5 tables
 5. Staff which had 5 rows
 
 ## Key Insights
-Total revenue: Ksh 42,565.0
-Product category generating the most revenue: Dairy category was the highest followed closely by Flour and Grains category
-City with the highest number of orders: Nairobi
-City with the highest number of customers: Nairobi
-Most preferred payment method: M-Pesa
+1. Total revenue: Ksh 42,565.0
+2. Product category generating the most revenue: Dairy category was the highest followed closely by Flour and Grains category.
+3. City with the highest number of orders: Nairobi.
+4. City with the highest number of customers: Nairobi.
+5. Most preferred payment method: M-Pesa.
 
 ## Recommendations
-Ensure that dairy products, flour and grains are always in stock since they are the primary revenue drivers.
-Optimize the operational efficiency of M-Pesa transactions to ensure they are quick and seamless.
-Targeted marketing and promotional discounts in Nairobi since it has the largest customer base to ensure loyalty and attract more customers
+1. Ensure that dairy products, flour and grains are always in stock since they are the primary revenue drivers.
+2. Optimize the operational efficiency of M-Pesa transactions to ensure they are quick and seamless.
+3. Targeted marketing and promotional discounts in Nairobi since it has the largest customer base to ensure loyalty and attract more customers.
 
 ## Tools Used
-SQLite DB Browser
+1. SQLite DB Browser
 
 
